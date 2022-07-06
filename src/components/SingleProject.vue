@@ -34,7 +34,8 @@ export default {
 .project{
     padding: 20px;
     background-color: #f2f2f2;
-    
+    border-radius: 6px;
+    border-left: 6px solid pink;
     margin: 10px;
     user-select: none;
 }
